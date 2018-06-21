@@ -11,7 +11,7 @@ module.exports = {
 
 node app.js
 
-For add this bot on your server
+For adding this bot on your server
 ```
 https://discordapp.com/api/oauth2/authorize?client_id=442159181261176832&permissions=8&scope=bot
 ```
